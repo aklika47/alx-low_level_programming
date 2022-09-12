@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+
 /**
- * found greater than 5, 
- * if is less than 6, or is 0
+ * main - main function
+ * Description: found greater than 5, if is less than 6, or is 0
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int num, max;
@@ -27,4 +29,3 @@ int main(void)
 	}
 	return (0);
 }
-
