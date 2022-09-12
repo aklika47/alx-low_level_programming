@@ -2,9 +2,10 @@
 
 /**
  * in main - Prints the alphabet.
- * list
+ * description: list
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char letter[26] = "abcdefghijklmnopqrstuvwxyz";
